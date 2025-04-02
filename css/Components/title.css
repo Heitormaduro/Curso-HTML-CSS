@@ -1,0 +1,17 @@
+h1{
+    display: inline-block;
+    background-color: #3A4042;
+    color: #C835A8;
+    text-align: center;
+    text-shadow:4px 4px 0px #000;
+    margin-top: 116px;
+    margin-left: 91px;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 40px;
+    width: 627px;
+    height: 184px;
+    padding-top: 42px;
+    padding-left: 90px;
+    padding-right: 97px;
+    box-shadow: 10px 10px #000;
+}
