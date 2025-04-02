@@ -28,20 +28,7 @@ a:before{
 }
 
 
-#button{
-    display: inline-block;
-    background-color: #C835A8;
-    box-shadow: 5px 5px 0px #000;
-    padding: 18px 20px;
-    margin-right: 0;
-    transition: 100ms linear;
-}
-#button:hover{
-    text-decoration: underline;
-    color: #FF003A;
-    background-color:#0199BA;
-    transform: scale(1.08);
-}
+
 a:hover{
     text-decoration: underline;
     transform: scale(0.9);
