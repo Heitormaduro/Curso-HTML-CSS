@@ -1,14 +1,4 @@
-header {
-    display: flex;
-    background-color: #000A37;
-    border-bottom: 10px solid #000;
-    padding: 10px 20px;
-    justify-content: space-between;
-}
-nav{
-    text-align: right;
-}
-a{
+.action{
     display: inline-flex;
     align-items: center;
     color: #fff;
@@ -19,15 +9,14 @@ a{
     margin-right: 30px;
 }
 
-a:before{
+.action:before{
     content: "";
     background-color: #C835A8;
     width: 10px;
     height: 10px;
     margin-right: 10px;
 }
-
-a:hover{
+.action:hover{
     text-decoration: underline;
     transform: scale(0.9);
     transition: 100ms linear;
